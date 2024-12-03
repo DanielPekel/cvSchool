@@ -1,0 +1,7 @@
+.mainTable{
+    width: 100%;
+}
+.roundedImage{
+    border-radius: 20%;
+    border:solid;
+}

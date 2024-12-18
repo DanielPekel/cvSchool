@@ -1,0 +1,30 @@
+.formfields {
+    background-color: #454545;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    width: 80%;
+    margin: 4% 0;
+    border: none;
+}
+
+.submitButton {
+    background: #ae45e8;
+    color: white;
+    border-radius: 20px;
+    border: solid 0;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+::placeholder {
+    color: #aaaaaa;
+    font-size: 15px;
+}
+
+.labelForm {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}

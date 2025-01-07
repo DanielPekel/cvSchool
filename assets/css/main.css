@@ -3,16 +3,18 @@ body {
     background-color: black !important;
     overflow-x: hidden;
 }
-a{
-    color:#ae45e8;
+
+a {
+    color: #ae45e8;
     font-weight: bold;
-    font-size:15px;
+    font-size: 15px;
     text-decoration: none;
 }
-a:hover{
+
+a:hover {
     text-decoration: underline;
 }
-
+/** font family geset **/
 * {
     color: white;
     font-family: "Montserrat", sans-serif;
@@ -20,7 +22,7 @@ a:hover{
     font-style: normal;
 }
 
-/** alignment **/
+/** alignment for easy use**/
 
 .container {
     max-width: 80%;
@@ -491,4 +493,9 @@ a:hover{
 
 .rounded-5 {
     border-radius: 50px;
+}
+
+.upperline {
+    border-top: 2px white solid;
+    margin-top:20px;
 }
